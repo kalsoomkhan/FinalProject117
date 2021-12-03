@@ -1,0 +1,134 @@
+/*kalsoom khan */
+/* Professor Adam Spryszynski */
+/* IS 117-001 */
+/* Fall 2021 Semester */
+
+/* Styles for the Text*/
+* {
+    font-family: "Lucida Sans";
+}
+/* Styles for the Footer */
+.footer {
+    position: fixed;
+    left: 10;
+    bottom: 0;
+    width: 99%;
+    max-width: 1080px;
+    background-color: peachpuff;
+    color: white;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.text-muted {
+    margin: 0 auto;
+}
+
+/* Styles for the "Heads" */
+header h1 {
+    display: inline-block;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 15px;
+}
+
+header img {
+    margin-bottom: 15px;
+}
+
+.login {
+   float: right;
+}
+
+/* Styles for the Cards */
+.card {
+    float: left;
+    width: 250px;
+    margin: 50px auto 50px auto;
+    background-color: gainsboro;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-width: medium;
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+    padding-top: 25px;
+    font-family: "Lucida Sans";
+}
+
+.card-text {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* Styles for the Text */
+body {
+    width: 99%;
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    background-color: moccasin;
+}
+
+/* Styles for the Carousel */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: papayawhip;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-width: medium;
+}
+
+.carousel-caption {
+    text-align: right;
+}
+
+/* Styles for the Photos */
+hr {
+    width: 100%;
+    border: none;
+    height: 1px;
+    color: #333;
+    background-color: #333;
+}
+
+/* Styles for the Navigation Bar */
+.nav-item {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.thumbnail img{
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.carousel-item img{width: 100%;}
+
+
+/* Styles for the Contact Page: Layout */
+form {
+    margin: 0 auto;
+}
+
+.contactpics {
+    vertical-align: middle;
+    margin-right: 10px;
+    text-align: center;
+}
